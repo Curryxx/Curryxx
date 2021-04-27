@@ -1,2 +1,4 @@
 - 👋 Hi, I’m @Dolla
-I love minecraft
+Dolla#240
+- Owner of PantherMC
+- Learn Java
