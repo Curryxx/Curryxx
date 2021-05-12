@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Dolla
 Dolla#240
-- Owner of PantherMC
+- Owner of Potion VIP
 - Learn Java
